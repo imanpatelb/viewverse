@@ -1,0 +1,16 @@
+{
+  "name": "viewverse",
+  "version": "1.0.0",
+  "description": "A user-driven video platform for sharing, discovering, and engaging with diverse content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "moongodb"
+  ],
+  "author": "Man Patel",
+  "license": "ISC"
+}
