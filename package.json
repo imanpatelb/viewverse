@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A user-driven video platform for sharing, discovering, and engaging with diverse content",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
@@ -12,5 +13,8 @@
     "moongodb"
   ],
   "author": "Man Patel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
